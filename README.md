@@ -2,11 +2,7 @@
 
 안녕하세요 소통하는 개발자 Jasper 입니다.
 
-
-
 ![](assets/2022-11-27-18-48-06-image.png)
-
-
 
 ## Github blog 설치가이드
 
