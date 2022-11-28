@@ -19,9 +19,9 @@ sidebar:
     <li>단순 Python 개발</li>
 </ul>
 
-# Visual Studio 2022 Community
+## Visual Studio 2022 Community
 
-## VS 다운로드
+### VS 다운로드
 
 <img title="" src="../assets/2022-11-27-first/vs_search.png" alt="vs_search.png" data-align="left" width="686">
 
@@ -29,7 +29,7 @@ google에서 visual studio를 검색하여
 
 [공식홈페이지 접속](https://visualstudio.microsoft.com/ko/){: .btn .btn--warning}
 
-## VS 설치
+### VS 설치
 
 ![vs_tools.png](../assets/2022-11-27-first/vs_tools.png "vs_install")
 
@@ -37,38 +37,38 @@ google에서 visual studio를 검색하여
 
 (CUDA 설치 시 머신러닝에 필요한 모듈 설치됨, 추후 필요하다면 업데이트)
 
-# Miniconda
+## Miniconda
 
 가상환경 버전관리 형상관리의 Anaconda 축소형 IDE(통합개발환경)
 
-## Miniconda 다운
+### Miniconda 다운
 
-## Miniconda 설치
+### Miniconda 설치
 
-# CUDA
+## CUDA
 
-## CUDA 다운
+### CUDA 다운
 
-## CUDA 설치
+### CUDA 설치
 
-# CUDNN
+## CUDNN
 
-## CUDNN 다운
+### CUDNN 다운
 
-## CUDNN 설치
+### CUDNN 설치
 
-# CMAKE
+## CMAKE
 
-## CMAKE 다운
+### CMAKE 다운
 
-## CMAKE 설치
+### CMAKE 설치
 
-# Visual Studio Code
+## Visual Studio Code
 
-## VSCODE 다운
+### VSCODE 다운
 
-## VSCODE 설치
+### VSCODE 설치
 
-# Pytorch
+## Pytorch
 
-## Pytorch 설치
+### Pytorch 설치
