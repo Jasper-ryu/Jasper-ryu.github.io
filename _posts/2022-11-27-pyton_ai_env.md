@@ -9,6 +9,9 @@ sidebar:
     nav: "docs"
 ---
 
+**[주의: Local CUDA 환경이므로 단순 Python 개발을 원하시는 분은 miniconda, vscode 두개만 설치하도록 하자]**
+{: .notice--danger}
+
 # Visual Studio 2022 Community
 
 ## VS 다운로드
