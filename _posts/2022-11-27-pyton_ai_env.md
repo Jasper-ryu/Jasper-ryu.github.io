@@ -18,6 +18,7 @@ sidebar:
     <li>인공지능 Local CUDA</li>
     <li>단순 Python 개발</li>
 </ul>
+</div>
 
 ## Visual Studio 2022 Community
 
