@@ -4,6 +4,9 @@ title:  "Python 인공지능 개발환경 설정"
 categories: setting
 tag: [python, AI, visual studio, miniconda, vscode, cuda, cudnn, cmake, pytorch]
 toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 # Visual Studio 2022 Community
