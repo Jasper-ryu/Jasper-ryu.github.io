@@ -1,6 +1,9 @@
 ﻿---
 layout: single
-title:  "로컬 CUDA 머신러닝 개발환경 세팅"
+title:  "Python 인공지능 개발환경 설정"
+categories: setting
+tag: [python, AI, visual studio, miniconda, vscode, cuda, cudnn, cmake, pytorch]
+toc: true
 ---
 
 # Visual Studio 2022 Community

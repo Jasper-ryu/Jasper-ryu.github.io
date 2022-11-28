@@ -75,7 +75,7 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-naver_site_verification  :
+naver_site_verification  : "8f24272afec836eb7dddfa1b6461c5d30e2cb49f"
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -199,7 +199,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 7 # amount of posts to show
 paginate_path: /page:num/
-timezone: Asia/Seoul
+timezone: # Asia/Seoul
 
 
 # Plugins (previously gems:)
@@ -236,16 +236,16 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 
 # HTML Compression
