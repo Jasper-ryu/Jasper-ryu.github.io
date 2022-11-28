@@ -1,6 +1,12 @@
 ---
 layout: single
 title:  "주피터(Jupyter) 노트북 파일(ipynb) 깃허브(github) 블로그 올리기"
+categories: setting
+tag: [github, github blog, jekyll, jupyter, ipynb, md]
+toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 ```python
