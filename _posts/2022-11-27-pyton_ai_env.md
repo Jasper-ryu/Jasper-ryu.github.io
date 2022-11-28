@@ -9,8 +9,15 @@ sidebar:
     nav: "docs"
 ---
 
-**[주의: Local CUDA 환경이므로 단순 Python 개발을 원하시는 분은 miniconda, vscode 두개만 설치하도록 하자]**
+**[주의: 인공지능 개발을 위한 Local CUDA 환경설정입니다]**
 {: .notice--danger}
+
+<div class="notice--success">
+<h2> 설치시 주의사항 </h2>
+<ul>
+    <li>인공지능 Local CUDA</li>
+    <li>단순 Python 개발</li>
+</ul>
 
 # Visual Studio 2022 Community
 
@@ -20,7 +27,7 @@ sidebar:
 
 google에서 visual studio를 검색하여
 
-공식홈페이지([[https://visualstudio.microsoft.com/ko/])로](https://visualstudio.microsoft.com/ko/)%EB%A1%9C) 접속하여 다운로드
+[공식홈페이지 접속](https://visualstudio.microsoft.com/ko/){: .btn .btn--warning}
 
 ## VS 설치
 
