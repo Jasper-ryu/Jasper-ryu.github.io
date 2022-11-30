@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "국내 실정에 적합한 스마트팜 개발 전스마트팜 기본연구"
+title:  "국내 실정에 적합한 스마트팜 개발 전략"
 categories: research
 tag: [smart-farm]
 toc: true
