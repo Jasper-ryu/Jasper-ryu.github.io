@@ -74,24 +74,30 @@ vscode를 workspace에서 바로 여는것은 매우 편리하다 그래서 체�
 
 
 
-![vscode_path.png](../assets/2022-11-27-pyton_ai_env/17faa7aef6ce20485c9c67235ccbbb731b273aea.png)
-
 ## 설치가 완료되었으면 환경설정을 해보자
+
+
+
+![vscode_path.png](../assets/2022-11-27-pyton_ai_env/17faa7aef6ce20485c9c67235ccbbb731b273aea.png)
 
 File > Preferences > Settings
 
-User > Extensions > Python
+User > Extensions > Python  
 
 
 
 Conda Path `C:/Miniconda3/Scripts/activate.exe`
 
-Default interpreter Path `C:/Miniconda3/python.exe`
+Default interpreter Path `C:/Miniconda3/python.exe`  
+
+
 
 **[여기까지 진행하면 python 개발 환경설정은 끝이다
 이후 아래에서는 GPU를 이용한 인공지능 개발환경 설정이다.]**
 
-{: .notice--danger}
+{: .notice--danger}  
+
+
 
 # Visual Studio 2022 Community
 
