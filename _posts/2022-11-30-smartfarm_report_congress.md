@@ -1,8 +1,8 @@
 ﻿---
 layout: single
 title:  "스마트농업 육성사업 추진현황과 개선과제"
-categories: research
-tag: [smart-farm]
+categories: coding
+tag: [c_lang, vscode]
 toc: true
 author_profile: false
 sidebar:
