@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "주피터(Jupyter) 노트북 파일(ipynb) 깃허브(github) 블로그 올리기"
+title:  "깃허브(github) 블로그 간단히 올리기 '주피터(jupyter)편'"
 categories: setting
 tag: [github, github blog, jekyll, jupyter, ipynb, md]
 toc: true
